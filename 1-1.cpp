@@ -1,14 +1,15 @@
 #include<iostream>
 using namespace std;
 int main() {
-	//int i = k + 1;Î´¸øk½øÐÐ¶¨Òå
+	//int i = k + 1;æœªç»™kè¿›è¡Œå®šä¹‰
 	int k;
 	cin >> k;
 	int i = k + 1;
 	cout << i++ << endl;
-	//int i=1;i½øÐÐÁËÖØ¸´¶¨Òå
+	//int i=1;iè¿›è¡Œäº†é‡å¤å®šä¹‰
 	i = 1;
 	cout << i++ << endl;
 	cout << "Welcome to C++" << endl;
 	return 0;
+
 }
